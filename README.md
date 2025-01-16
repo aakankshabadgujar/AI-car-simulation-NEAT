@@ -27,26 +27,4 @@ Pygame
 
 NEAT-Python
 
-# Installation
-Clone this repository:
 
-bash
-git clone https://github.com/aakankshabadgujar/AI-car-simulation-NEAT.git
-cd AI-car-simulation-NEAT
-Install the required packages:
-
-bash
-pip install -r requirements.txt
-Run the simulation:
-
-bash
-python map1_test.py
-Usage
-Modify the config.txt file to adjust NEAT parameters.
-
-Change the map image and starting positions as needed.
-
-Customize the car's properties and behavior in the Car class within the script files.
-
-# Acknowledgments and Credits:
-Cheesy AI and NeuralNine Youtube channels
